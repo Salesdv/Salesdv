@@ -36,7 +36,7 @@ Se quiser acompanhar meu progresso e contribuições por aqui:
 ### 📫 Como me encontrar
 
 - 💼 **LinkedIn:** [linkedin.com/in/seu-perfil]()
-- ✉️ **E-mail:** [seu.email@exemplo.com](mailto:pedrohsales.dv@gmail.com)
+- ✉️ **E-mail:** [seu.email@exemplo.com](pedrohsales.dv@gmail.com)
 
 ---
 
