@@ -1,4 +1,4 @@
-# Olá, eu sou o [Pietro]! 👋
+# Olá, eu sou o Pietro! 👋
 
 ### 🚀 Sobre Mim
 Sou um estudante apaixonado por tecnologia, focado em entender como transformar ideias em soluções reais, eficientes e bem gerenciadas. Adoro explorar o ecossistema Linux, arquiteturas modernas e automação.
